@@ -4,10 +4,4 @@ This Model/WebApp predicts real estate price in Bangalore. This model is also in
 ![WebApp](https://github.com/bansal-madhav/Real-Estate-Price-Prediction/assets/153558335/36e07852-6af2-424e-a5af-1849540dc622)
 
 Technologies used:
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+Python, Numpy and Pandas for data cleaning, Matplotlib for data visualization, Sklearn for model building, Jupyter notebook, visual studio code and pycharm as IDE, Python flask for http server, HTML/CSS/Javascript for UI.
